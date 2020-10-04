@@ -1,0 +1,5 @@
+﻿  MainGame.cpp
+d:\user christopher\documentos\fundajuegos\motor\motor\maingame.cpp(45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+d:\user christopher\documentos\fundajuegos\motor\motor\maingame.cpp(85): warning C4305: '+=': truncamiento de 'double' a 'float'
+d:\user christopher\documentos\fundajuegos\motor\motor\maingame.cpp(88): warning C4018: '<': no coinciden signed/unsigned
+  Motor.vcxproj -> D:\User Christopher\Documentos\FundaJuegos\Motor\Debug\Motor.exe
